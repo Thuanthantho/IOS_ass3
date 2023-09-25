@@ -1,6 +1,6 @@
 # IOS_assignment3_Team-7_IOSOS
 
-**Youtube link**: 
+**Youtube link**: https://www.youtube.com/watch?v=GWp4aYPCzEo
 
 **Github link**: https://github.com/Thuanthantho/IOS_assignment3_Team-7_IOSOS
 
